@@ -1,0 +1,5 @@
+{
+    "audioCues.taskCompleted": "off",
+    "audioCues.notebookCellCompleted": "off",
+    "audioCues.notebookCellFailed": "off"
+}
